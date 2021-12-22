@@ -1,0 +1,18 @@
+{
+    "name": "MarlonRuval.AsyncAwaitUtil.Tests.runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:eb13b215baf513343b5e21e8e80d11e2"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
