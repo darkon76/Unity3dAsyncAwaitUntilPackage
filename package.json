@@ -5,9 +5,9 @@
   "description": "Utils to make async await easier.",
   "unity": "2020.2",
   "author": {
-    "name": "marlonruvalcaba",
+    "name": "Marlon Ruvalcaba",
     "email": "adrianr76@gmail.com",
-    "url": ""
+    "url": "https://github.com/darkon76"
   },
-  "type": "tool"
+  "type": "library"
 }
