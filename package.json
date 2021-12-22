@@ -2,14 +2,12 @@
   "name": "com.marlonruvalcaba.asyncawaitutil",
   "version": "1.0.1",
   "displayName": "Async Await Utils",
-  "description": "Utils to make async await easier",
+  "description": "Utils to make async await easier yei",
   "unity": "2020.2",
   "author": {
     "name": "marlonruvalcaba",
     "email": "adrianr76@gmail.com",
     "url": ""
   },
-  "type": "library",
-  "dependencies": {
-  }
+  "type": "library"
 }
